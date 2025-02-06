@@ -9,7 +9,7 @@ public class Constants {
     public static final By EMAIL = By.id("txtUserName");
     public static final String USER_NAME = "ea7481017@gmail.com";
     public static final By PASSWORD = By.id("txtPassword");
-    public static final String MY_PASSWORD = "123Test321";
+    public static final String MY_PASSWORD = "**********";
     public static final By SUBMIT_BUTTON = By.id("btnLogin");
     public static final By MY_FAVORITES = By.xpath("//*[@id=\"myAccount\"]/div/div/ul/li[7]/a");
     public static final By SEARCH = By.xpath("//div[@class='searchBarContent-xdmlXT7UifVmw5n9e2a6']/div/div/input");
